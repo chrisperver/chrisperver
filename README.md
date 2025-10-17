@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chrisperver
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and Z80 assembly
 - 📫 How to reach me chris@prophecynews.co.uk
 
 <!---
