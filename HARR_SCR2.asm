@@ -1,6 +1,6 @@
 ;
 ;
-;Généré par ConvImgCpc Version 0.16
+;GÃ©nÃ©rÃ© par ConvImgCpc Version 0.16
 ;
 ; C\users\chris\Desktop\harrnew5.asm
 ; Mode 0
@@ -10,7 +10,7 @@ org &C000
 nolist
 ;
 ;
-;Généré par ConvImgCpc Version 0.16
+;GÃ©nÃ©rÃ© par ConvImgCpc Version 0.16
 ;
 ; 'C\users\chris\Desktop\MimoSource\HarrierAttack\InlayCard\harrpic10.asm
 ; Mode 0
